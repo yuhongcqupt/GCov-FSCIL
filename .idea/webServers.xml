@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a0515e91-615a-47a1-ba43-05e4ff5aca57" name="L_j (project level)">
+        <fileTransfer rootFolder="/home5T/L_j/Tay/FACT-cub200" accessType="SFTP" host="10.16.110.151" port="8989" sshConfigId="ea186eed-0c14-4229-afee-08a1b236977a" sshConfig="L_j@10.16.110.151:8989 password" />
+      </webServer>
+      <webServer id="b7993a17-32ff-43d2-a3af-ffbb76dc0f95" name="xxz (project level)">
+        <fileTransfer rootFolder="/home/xxz/LQW/FACT-ssl+cov+gen" accessType="SFTP" host="10.20.26.219" port="22" sshConfigId="96d89cc9-55a6-453c-8bce-41c1fa662918" sshConfig="xxz@10.20.26.219:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
